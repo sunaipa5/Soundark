@@ -4,7 +4,8 @@ Desktop application for [SoundCloud®](https://soundcloud.com)
 
 This application is developed with [wails](https://github.com/wailsapp/wails) for more information: https://github.com/wailsapp/wails
 
-![license](https://img.shields.io/github/license/{sunaipa5}/{Soundark}.svg)
+![License](https://img.shields.io/github/license/{sunaipa5}/{Soundark}.svg)
+![Realese](https://img.shields.io/github/realese/{sunaipa5}/{Soundark}.svg)
 
 ## IMPORTANT
 This application works on https://soundcloud.com, this view was obtained by adding special css codes on https://soundcloud.com
@@ -16,7 +17,15 @@ Soundark does not store, retain, use or share any of your data with 3rd party co
 
 ## Downloads
 
-[Go To Downloads](https://github.com/sunaipa5/Soundark/releases/tag/1.0)
+Windows 10-11 x64 (Setup .exe): [Click To Download]()
+
+Windows 10-11 x64 (Direct executable .exe): [Click To Download]()
+
+Linux x64 Debian Based : Coming soon
 
 ## Screenshots
+![Home](https://github.com/sunaipa5/Soundark/blob/main/screenshots/home.png?raw=true)
+![Library](https://github.com/sunaipa5/Soundark/assets/67613319/729481fe-615d-468c-a570-66a9a7e8f42c)
+![Feed](https://github.com/sunaipa5/Soundark/blob/main/screenshots/feed.png?raw=true)
+![Search](https://github.com/sunaipa5/Soundark/blob/main/screenshots/search.png?raw=true)
 
