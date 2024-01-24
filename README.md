@@ -16,7 +16,7 @@ Soundark does not store, retain, use or share any of your data with 3rd party co
 
 ## Downloads
 
-(https://github.com/sunaipa5/Soundark/releases/tag/1.0): [Go To Downloads]()
+[Go To Downloads](https://github.com/sunaipa5/Soundark/releases/tag/1.0)
 
 ## Screenshots
 
