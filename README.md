@@ -24,8 +24,16 @@ Windows 10-11 x64 (Direct executable .exe): [Click To Download]()
 Linux x64 Debian Based : Coming soon
 
 ## Screenshots
+
+Home Page
 ![Home](https://github.com/sunaipa5/Soundark/blob/main/screenshots/home.png?raw=true)
+
+Library
 ![Library](https://github.com/sunaipa5/Soundark/assets/67613319/729481fe-615d-468c-a570-66a9a7e8f42c)
+
+Feed
 ![Feed](https://github.com/sunaipa5/Soundark/blob/main/screenshots/feed.png?raw=true)
+
+Search Results
 ![Search](https://github.com/sunaipa5/Soundark/blob/main/screenshots/search.png?raw=true)
 
