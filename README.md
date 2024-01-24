@@ -4,8 +4,9 @@ Desktop application for [SoundCloud®](https://soundcloud.com)
 
 This application is developed with [wails](https://github.com/wailsapp/wails) for more information: https://github.com/wailsapp/wails
 
-![License](https://img.shields.io/github/license/{sunaipa5}/{Soundark}.svg)
-
+<a href="https://github.com/sunaipa5/Soundark/blob/main/LICENSE" target="_blank">
+<img src="https://img.shields.io/github/license/{sunaipa5}/{Soundark}.svg">
+</a>
 <a href="https://soundcloud.com" target="_blank">
 <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white">
 </a>
