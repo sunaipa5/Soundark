@@ -16,11 +16,7 @@ Soundark does not store, retain, use or share any of your data with 3rd party co
 
 ## Downloads
 
-Windows 10-11 x64 (Setup .exe): [Click To Download]()
-
-Windows 10-11 x64 (Direct executable .exe): [Click To Download]()
-
-Linux x64 Debian Based : Coming soon
+(https://github.com/sunaipa5/Soundark/releases/tag/1.0): [Go To Downloads]()
 
 ## Screenshots
 
