@@ -1,3 +1,4 @@
 src/windows/frontend/node_modules
 src/windows/build/darwin
 src/windows/build/windows
+src/windows/build/bin
