@@ -7,9 +7,6 @@ This application is developed with [wails](https://github.com/wailsapp/wails) fo
 <a href="https://github.com/sunaipa5/Soundark/blob/main/LICENSE" target="_blank">
 <img src="https://img.shields.io/github/license/sunaipa5/Soundark.svg">
 </a>
-<a href="https://github.com/sunaipa5/Soundark/releases/tag/1.0" target="_blank">
-<img src="https://img.shields.io/github/realese/sunaipa5/Soundark.svg">
-</a>
 <a href="https://soundcloud.com" target="_blank">
 <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white">
 </a>
