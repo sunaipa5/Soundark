@@ -5,7 +5,6 @@ Desktop application for [SoundCloud®](https://soundcloud.com)
 This application is developed with [wails](https://github.com/wailsapp/wails) for more information: https://github.com/wailsapp/wails
 
 ![License](https://img.shields.io/github/license/{sunaipa5}/{Soundark}.svg)
-![Made with](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)
 
 <a href="https://soundcloud.com" target="_blank">
 <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white">
