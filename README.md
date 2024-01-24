@@ -10,6 +10,9 @@ This application is developed with [wails](https://github.com/wailsapp/wails) fo
 <a href="https://soundcloud.com" target="_blank">
 <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white">
 </a>
+<a href="https://soundcloud.com" target="_blank">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+</a>
 
 ## IMPORTANT
 This application works on https://soundcloud.com, this view was obtained by adding special css codes on https://soundcloud.com
@@ -21,11 +24,14 @@ Soundark does not store, retain, use or share any of your data with 3rd party co
 
 ## Downloads
 
-Windows 10-11 x64 (Setup .exe): [Click To Download]()
+[Go To Downloads](https://github.com/sunaipa5/Soundark/releases/tag/1.0)
 
-Windows 10-11 x64 (Direct executable .exe): [Click To Download]()
+### Currently supported platforms 
 
-Linux x64 Debian Based : Coming soon
+> **Windows:** Direct executable .exe, installer .exe
+
+> **Linux (debian based):** Coming soon
+
 
 ## Screenshots
 
