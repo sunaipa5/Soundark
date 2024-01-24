@@ -2,7 +2,9 @@
 
 Desktop application for [SoundCloud®](https://soundcloud.com) 
 
-<img alt="GitHub" src="https://camo.githubusercontent.com/26af177b04ca5619c2cb5eeeb27b47f392f4e5d64f84f73ca7a9ba5ba5b58bd8/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f7761696c736170702f7761696c73" data-canonical-src="https://img.shields.io/github/license/wailsapp/wails" style="max-width: 100%;">
+This application is developed with [wails](https://github.com/wailsapp/wails) for more information: https://github.com/wailsapp/wails
+
+![license](https://img.shields.io/github/license/{sunaipa5}/{Soundark}.svg)
 
 ## IMPORTANT
 This application works on https://soundcloud.com, this view was obtained by adding special css codes on https://soundcloud.com
