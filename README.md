@@ -23,6 +23,7 @@ The application is released under the MIT license, [SoundCloud®](https://soundc
 Soundark does not store, retain, use or share any of your data with 3rd party companies, we are not responsible for your data stored, collected, used or shared on https://soundcloud.com ! [SoundCloud®](https://soundcloud.com) is responsible for soundcloud's terms of use for more information: https://soundcloud.com/terms-of-use
 
 ## Downloads
+**IMPORTANT**: The dark theme may not be applied when you are redirected to the home page after logging in, you can resolve this issue by closing and reopening the app.
 
 [Go To Downloads](https://github.com/sunaipa5/Soundark/releases)
 
