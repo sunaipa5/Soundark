@@ -31,7 +31,7 @@ Soundark does not store, retain, use or share any of your data with 3rd party co
 
 > **Windows:** Direct executable .exe, installer .exe
 
-> **Linux (debian based):** Coming soon
+> **Linux:** Unfortunately there is currently no popup support in webkitgtk, so I am looking for an alternative solution.
 
 
 ## Screenshots
